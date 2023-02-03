@@ -8,6 +8,10 @@
 	+ 000000 -- Black
 	+ 5E1234 -- Dark Pink (?)
 
+## Edited on Theme Studio for VS Code
+
++ <https://themes.vscode.one/theme/bunnie/drt475GJ>
+
 ## Installation
 
 1. Move FF0080 folder to .vscode/extensions
