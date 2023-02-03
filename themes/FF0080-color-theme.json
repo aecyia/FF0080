@@ -1115,7 +1115,7 @@
 			"name": "php illegal.non-null-typehinted",
 			"scope": "invalid.illegal.non-null-typehinted.php",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#ff0080"
 			}
 		},
 		{
@@ -1301,7 +1301,7 @@
 		{
 			"scope": "token.error-token",
 			"settings": {
-				"foreground": "#f44747"
+				"foreground": "#ff0080"
 			}
 		},
 		{
