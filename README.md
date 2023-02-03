@@ -1,10 +1,16 @@
-# ff0080 README
+# FF0080 README
 
 + VS CODE
-+ Hot Pink Theme
-+ FF0080 is my favourite colour
++ High Contrast Black / Dark
++ Main Colours Used
+	+ FF0080 -- Pink
+	+ FFFFFF -- White
+	+ 000000 -- Black
+	+ 5E1234 -- Dark Pink (?)
 
 ## Installation
 
-+ Copy into the `<user home>/.vscode/extensions` folder and restart Code
-+ F5
+1. Move FF0080 folder to .vscode/extensions
+2. Restart VS Code
+3. Change Theme
+4. FF0080
