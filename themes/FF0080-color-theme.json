@@ -2018,7 +2018,7 @@
 		"tab.hoverBackground": "#5e1234",
 		"tab.hoverForeground": "#ffffff",
 		"tab.hoverBorder": "#ffffff",
-		"scrollbarSlider.background": "#5e1234",
+		"scrollbarSlider.background": "#ff0080",
 		"scrollbarSlider.hoverBackground": "#ff0080",
 		"scrollbarSlider.activeBackground": "#ffffff",
 		"progressBar.background": "#ff0080",
